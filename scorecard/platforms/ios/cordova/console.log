@@ -1,0 +1,66 @@
+2014-11-02 15:53:05.778 scorecard[45197:2858118] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/6290EC37-9489-45B6-9D8C-F0C3B3522A60/data/Containers/Data/Application/8C4B1C64-75E0-403D-82D2-3EC106A7D30A/Library/Cookies/Cookies.binarycookies
+2014-11-02 15:53:05.903 scorecard[45197:2858118] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 15:53:05.904 scorecard[45197:2858118] Multi-tasking -> Device: YES, App: YES
+2014-11-02 15:53:05.909 scorecard[45197:2858118] Unlimited access to network resources
+2014-11-02 15:53:05.914 scorecard[45197:2858118] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 15:53:07.260 scorecard[45197:2858118] Resetting plugins due to page load.
+2014-11-02 15:53:07.336 scorecard[45197:2858118] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/6290EC37-9489-45B6-9D8C-F0C3B3522A60/data/Containers/Bundle/Application/2F7C27EE-F8F7-4221-B160-CF38DFBA4906/scorecard.app/www/index.html
+2014-11-02 15:53:23.314 scorecard[45290:2858612] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/6290EC37-9489-45B6-9D8C-F0C3B3522A60/data/Containers/Data/Application/8E56068F-C0F5-4BF8-8C13-19F3CB5AE3A0/Library/Cookies/Cookies.binarycookies
+2014-11-02 15:53:23.467 scorecard[45290:2858612] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 15:53:23.468 scorecard[45290:2858612] Multi-tasking -> Device: YES, App: YES
+2014-11-02 15:53:23.472 scorecard[45290:2858612] Unlimited access to network resources
+2014-11-02 15:53:23.476 scorecard[45290:2858612] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 15:53:23.861 scorecard[45290:2858612] Resetting plugins due to page load.
+2014-11-02 15:53:23.901 scorecard[45290:2858612] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/6290EC37-9489-45B6-9D8C-F0C3B3522A60/data/Containers/Bundle/Application/47AF7065-3713-451C-B03F-2FD1EB6379A9/scorecard.app/www/index.html
+2014-11-02 15:54:03.991 scorecard[45477:2860192] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/6290EC37-9489-45B6-9D8C-F0C3B3522A60/data/Containers/Data/Application/D3F22873-4D4C-44A1-BC47-4096A091D82D/Library/Cookies/Cookies.binarycookies
+2014-11-02 15:54:04.171 scorecard[45477:2860192] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 15:54:04.171 scorecard[45477:2860192] Multi-tasking -> Device: YES, App: YES
+2014-11-02 15:54:04.176 scorecard[45477:2860192] Unlimited access to network resources
+2014-11-02 15:54:04.179 scorecard[45477:2860192] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 15:54:04.515 scorecard[45477:2860192] Resetting plugins due to page load.
+2014-11-02 15:54:04.559 scorecard[45477:2860192] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/6290EC37-9489-45B6-9D8C-F0C3B3522A60/data/Containers/Bundle/Application/E9F8A5B7-3366-4743-9164-8A771F349FC1/scorecard.app/www/index.html
+2014-11-02 15:56:45.769 scorecard[45698:2862639] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/F1EF868F-3D18-487D-B9ED-2ECEB5940B1C/data/Containers/Data/Application/51F00C37-340D-49CE-97D0-500F0771274D/Library/Cookies/Cookies.binarycookies
+2014-11-02 15:56:45.935 scorecard[45698:2862639] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 15:56:45.935 scorecard[45698:2862639] Multi-tasking -> Device: YES, App: YES
+2014-11-02 15:56:45.944 scorecard[45698:2862639] Unlimited access to network resources
+2014-11-02 15:56:45.949 scorecard[45698:2862639] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 15:56:47.343 scorecard[45698:2862639] Resetting plugins due to page load.
+2014-11-02 15:56:47.412 scorecard[45698:2862639] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/F1EF868F-3D18-487D-B9ED-2ECEB5940B1C/data/Containers/Bundle/Application/1B384ACD-087A-40C5-8EA5-E61132BF3A1D/scorecard.app/www/index.html
+2014-11-02 15:57:11.025 scorecard[45849:2863825] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/F1EF868F-3D18-487D-B9ED-2ECEB5940B1C/data/Containers/Data/Application/D98FB553-506A-43E4-A3C2-FD69FE407B76/Library/Cookies/Cookies.binarycookies
+2014-11-02 15:57:11.146 scorecard[45849:2863825] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 15:57:11.146 scorecard[45849:2863825] Multi-tasking -> Device: YES, App: YES
+2014-11-02 15:57:11.153 scorecard[45849:2863825] Unlimited access to network resources
+2014-11-02 15:57:11.158 scorecard[45849:2863825] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 15:57:11.498 scorecard[45849:2863825] Resetting plugins due to page load.
+2014-11-02 15:57:11.542 scorecard[45849:2863825] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/F1EF868F-3D18-487D-B9ED-2ECEB5940B1C/data/Containers/Bundle/Application/D3E4158E-E091-4191-9EA3-6CAAADC6E469/scorecard.app/www/index.html
+2014-11-02 15:57:16.893 scorecard[45849:2863833] Terminating since there is no system app.
